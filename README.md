@@ -4,7 +4,8 @@ An interactive Power BI dashboard built to analyze global retail sales performan
 
 📸 Dashboard Preview
 
-<img width="1536" height="1024" alt="ChatGPT Image Jul 23, 2026, 02_00_19 PM" src="https://github.com/user-attachments/assets/9cbe3c27-798d-4455-8cbf-6fe7856de4de" />
+<img width="574" height="320" alt="Screenshot 2026-07-23 151229" src="https://github.com/user-attachments/assets/89ac3b39-9e27-4386-b8b5-50327c80a610" />
+
 
 🚀 Project Highlights
 📈 Interactive Executive Dashboard
